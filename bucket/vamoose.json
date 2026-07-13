@@ -1,16 +1,16 @@
 {
-    "version": "0.32.0",
+    "version": "0.34.1",
     "description": "Calendar workflow engine for time off, approvals, and quick actions",
     "homepage": "https://vamoose.dev",
     "license": "BUSL-1.1",
     "architecture": {
         "64bit": {
-            "url": "https://github.com/dcadolph/vamoose/releases/download/v0.32.0/vamoose_0.32.0_Windows_x86_64.zip",
-            "hash": "6ea349036d53a1af82ae0d671af54dedd258a7552fe3c59036824eeeb1e3dc9f"
+            "url": "https://github.com/dcadolph/vamoose/releases/download/v0.34.1/vamoose_0.34.1_Windows_x86_64.zip",
+            "hash": "7a64286749be13cdc578711d049c048ead7e17fcb5b68177eac191deb82fd943"
         },
         "arm64": {
-            "url": "https://github.com/dcadolph/vamoose/releases/download/v0.32.0/vamoose_0.32.0_Windows_arm64.zip",
-            "hash": "e68a195fbaffc747d1a9210ae3fad2ed28bcf03d1f07950307e99428ffbf033f"
+            "url": "https://github.com/dcadolph/vamoose/releases/download/v0.34.1/vamoose_0.34.1_Windows_arm64.zip",
+            "hash": "18edc84787b50795d0879933cf7a92003e41a5f18f3f0302836b0dc24b5779cd"
         }
     },
     "bin": "vamoose.exe",
